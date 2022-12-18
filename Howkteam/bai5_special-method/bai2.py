@@ -1,0 +1,6 @@
+print(2 + 3)
+print(int.__add__(2, 3))
+print('How ' + 'Kteam')
+print(str.__add__('How ', 'Kteam'))
+print([1, 2] + [3, 4])
+print(list.__add__([1, 2], [3, 4]))
